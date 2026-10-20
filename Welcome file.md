@@ -1,4 +1,0 @@
-﻿# Báo cáo phân tích (I/O)
-- Input : Là các đoạn ký tự, chữ viết thô do kỹ sư hoặc người viết tài liệu nhập vào trình soạn thảo, chứa các dữ liệu chưa được định dạng như text hướng dẫn, mã nguồn, dữ liệu bảng và danh sách công việc.
--    Output : Là giao diện tài liệu đã được biên dịch bởi trình đọc Markdown, hiển thị trực quan các thành phần: các khối mã có tô màu cú pháp , đoạn code ngắn được làm nổi bật để tránh nhầm với text thường, Bảng có lưới chia rõ ràng, Danh sách công việc hiển thị dưới dạng các ô checkbox có thể tích chọn, và các ký tự đặc biệt được hiển thị nguyên bản nhờ dùng dấu Escape.
-``` code python ```
